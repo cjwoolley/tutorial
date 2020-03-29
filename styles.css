@@ -1,0 +1,10 @@
+header {
+    position: static;
+}
+
+.banner {
+    position: relative;
+}
+.banner img {
+    max-width: 100%;
+}
